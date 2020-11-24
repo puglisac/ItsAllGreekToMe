@@ -20,16 +20,19 @@ namespace ItsAllGreek
 
         }
 
+        // calculate change between two x or y coordinates
         static float delta(float x, float y)
         {
             return x - y;
         }
 
+        // calculates the distance between two points given the change in coordinates
         static float distance(float deltaX, float deltaY)
         {
             return MathF.Sqrt((deltaX*deltaX) + (deltaY*deltaY));
         }
 
+        //returns the angle of rotation needed to move from on point to another given the change in coordinates
         static float getAngle(float x, float y)
         {
             float radians = MathF.Atan2(y, x);
