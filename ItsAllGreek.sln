@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItsAllGreek", "ItsAllGreek\ItsAllGreek.csproj", "{155BEBB1-279B-4698-8F9C-6F7D144C07C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155BEBB1-279B-4698-8F9C-6F7D144C07C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155BEBB1-279B-4698-8F9C-6F7D144C07C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155BEBB1-279B-4698-8F9C-6F7D144C07C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155BEBB1-279B-4698-8F9C-6F7D144C07C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB61A2A6-D11F-42E1-8BC7-85C39D04BD5D}
+	EndGlobalSection
+EndGlobal
