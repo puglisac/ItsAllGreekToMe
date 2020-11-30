@@ -45,4 +45,4 @@ Via command line:
 
 `$ git clone https://github.com/puglisac/ItsAllGreekToMe.git`  
 
-open MoviesApp.sln in [Visual Studio](https://visualstudio.microsoft.com/) and click Run to start.
+open ItsAllGreek.sln in [Visual Studio](https://visualstudio.microsoft.com/) and click Run to start.
